@@ -57,6 +57,4 @@ Aprofundando conhecimentos em:
 - SQL
 - Arquitetura e qualidade de dados
 
-## Contato
-
 [LinkedIn](https://www.linkedin.com/in/josias-souza-6406b61a9/)
